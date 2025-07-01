@@ -4,3 +4,6 @@
 [submodule "enroll_prereqs/rust_mint"]
 	path = enroll_prereqs/rust_mint
 	url = https://github.com/Naty-S/rust_mint.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/Naty-S/solana-starter.git
