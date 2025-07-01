@@ -1,0 +1,6 @@
+[submodule "enroll_prereqs/airdrop"]
+	path = enroll_prereqs/airdrop
+	url = https://github.com/Naty-S/airdrop.git
+[submodule "enroll_prereqs/rust_mint"]
+	path = enroll_prereqs/rust_mint
+	url = https://github.com/Naty-S/rust_mint.git
