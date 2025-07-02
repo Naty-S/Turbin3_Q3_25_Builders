@@ -1,0 +1,12 @@
+{
+  "name": "Chibi",
+  "symbol": "CH",
+  "description": "Chibi's Kingdom Token!!",
+  "image": "https://raw.githubusercontent.com/Naty-S/sinai_usb/main/static/favicon.jpg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Chibi Developer"
+    }
+  ]
+}
