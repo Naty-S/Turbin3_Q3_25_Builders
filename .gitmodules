@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/Naty-S/solana-starter.git
+[submodule "sol-vault"]
+	path = sol-vault
+	url = https://github.com/Naty-S/sol-vault.git
