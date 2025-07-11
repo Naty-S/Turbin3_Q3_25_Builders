@@ -10,3 +10,6 @@
 [submodule "sol-vault"]
 	path = sol-vault
 	url = https://github.com/Naty-S/sol-vault.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/Naty-S/anchor-escrow.git
