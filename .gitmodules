@@ -22,3 +22,6 @@
 [submodule "capstone/branching_comics"]
 	path = capstone/branching_comics
 	url = https://github.com/Naty-S/branching_comics.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/Naty-S/anchor-marketplace.git
